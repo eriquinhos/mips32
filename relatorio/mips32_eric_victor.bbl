@@ -1,0 +1,19 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem{NBR6028:2003}
+\abntrefinfo{ABNT}{ABNT}{2003}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \emph{{NBR} 6028}: Resumo -
+  apresenta{\c c}{\~a}o.
+Rio de Janeiro, 2003. 2~p.}
+
+\bibitem{patterson2007}
+\abntrefinfo{Patterson e Hennesy}{PATTERSON; HENNESY}{2007}
+{PATTERSON, D.~A.; HENNESY, J.~L. \emph{Computer Organization and Design}. 5th
+  edition. ed. Waltham/MA, EUA: Morgan Kaufmann, 2007.}
+
+\end{thebibliography}

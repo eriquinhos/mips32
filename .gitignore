@@ -1,0 +1,12 @@
+db
+output_files
+incremental_db
+simulation
+transcript
+*.log
+*.txt
+*.qdf
+*.qpf
+*.qsf
+*.qws
+*.asm
