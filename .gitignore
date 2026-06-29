@@ -3,6 +3,10 @@ output_files
 incremental_db
 simulation
 transcript
+work
+*.mti
+*.wlf
+*.mpf
 *.log
 *.txt
 *.qdf
